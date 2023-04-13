@@ -1,2 +1,2 @@
 #!/bin/bash
-This is the README file at the base of the directory
+/root/alx-system_engineering-devops/0x00-shell_basics
