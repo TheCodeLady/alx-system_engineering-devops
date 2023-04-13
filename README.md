@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/correction/7709589085887803178896071894228134362662_5/205/399604/0x00-shell_basics
+This is the Readme at the root of the repo
