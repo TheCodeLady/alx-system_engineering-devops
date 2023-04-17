@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Chicago" | tr -i "Ac" "Ze" 
+tr "Ac" "Ze" 
